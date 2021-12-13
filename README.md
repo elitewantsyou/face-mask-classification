@@ -1,1 +1,1 @@
-# face-mask-classification
+# Face mask classification
